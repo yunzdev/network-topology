@@ -12,6 +12,7 @@ show running-config
 show access-lists
 
 show arp (shows ARP table and links between IP e MAC addresses)
+show spanning-tree
 
 show running-config
 
