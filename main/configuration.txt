@@ -1,1 +1,17 @@
-configs file
+yo, you got catfished into a "configuration.txt" named file, but here are some useful testing commands tho :)
+
+
+show ip dhcp binding
+
+ping <destination-ip>
+traceroute <destination-ip>
+
+show ip interface brief
+show ip route
+show running-config
+show access-lists
+
+show arp (shows ARP table and links between IP e MAC addresses)
+
+show running-config
+
